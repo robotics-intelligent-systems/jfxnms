@@ -1,3 +1,3 @@
 # Network Management System
 
-OpenWISP is an open-source solution for efficient IT network deployment, monitoring & management.
+OpenWISP is an open-source solution for efficient IT network deployment, monitoring & management. NMS PRIME is an Open Source Network Provisioning Tool and Network Management Platform that enables access across multiple access technologies/domains, like DOCSIS, FTTH, FTTx, DSL and WiFi. It allows a seamless user experience across multiple connectivity services. It reduces complexity for network operators through a simple and easy to adapt application marketplace.
